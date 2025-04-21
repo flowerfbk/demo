@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Big_buck_bunny_poster_big.jpg/600px-Big_buck_bunny_poster_big.jpg",Big Buck Bunny（短片动画）
+#EXTINF:-1 tvg-logo="https://picsum.photos/400/600?random=100",Big Buck Bunny（测试视频）
 https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/600x400.png?text=MUX+Test+Stream",MUX Test Stream（直播测试）
+#EXTINF:-1 tvg-logo="https://picsum.photos/400/600?random=1",MUX Test Stream（测试视频）
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/600x400.png?text=Ocean+Waves+Test+Video",Ocean Waves（测试视频）
+#EXTINF:-1 tvg-logo="https://picsum.photos/400/600?random=66",Ocean Waves（测试视频）
 http://vjs.zencdn.net/v/oceans.mp4
